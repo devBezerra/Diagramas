@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="n4OFaeBnygVxMkQYUXV0">
+    <mxGraphModel dx="1393" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D8em1-1iNaTo4UQDTakm-21" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="24" y="90" width="740" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.controller;" parent="1" vertex="1">
+          <mxGeometry x="470" y="540" width="80" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="594" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-archive-in-128.png" parent="1" vertex="1">
+          <mxGeometry x="350" y="532" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.jobs" parent="1" vertex="1">
+          <mxGeometry x="645.5" y="580" width="77" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-11" value="" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="257" y="526" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="B4rKv_sbWv2PB6B9xnxA-12" target="D8em1-1iNaTo4UQDTakm-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/angular-symbol-128.png" parent="1" vertex="1">
+          <mxGeometry x="124" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="B4rKv_sbWv2PB6B9xnxA-13" target="D8em1-1iNaTo4UQDTakm-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4rKv_sbWv2PB6B9xnxA-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370.5" y="110" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-1" value="FRONT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="124" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Chama&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="264" y="130.5" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-6" value="Rota de criação da File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="224" y="164" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="D8em1-1iNaTo4UQDTakm-5" target="B4rKv_sbWv2PB6B9xnxA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-10" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="382.25" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="D8em1-1iNaTo4UQDTakm-12" target="B4rKv_sbWv2PB6B9xnxA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Cria&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="504" y="130.5" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-14" value="Nova File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="494" y="164" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-22" value="Step 1&lt;br&gt;Criação de Arquivo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="34" y="125.25" width="60" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-24" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="24" y="240" width="740" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-26" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="594" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D8em1-1iNaTo4UQDTakm-31" target="D8em1-1iNaTo4UQDTakm-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/angular-symbol-128.png" parent="1" vertex="1">
+          <mxGeometry x="124" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" parent="1" source="D8em1-1iNaTo4UQDTakm-35" target="D8em1-1iNaTo4UQDTakm-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-30" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370.5" y="260" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-31" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Retorna&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="264" y="280.5" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-32" value="Retorno de File Criada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="229" y="314" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;" parent="1" source="D8em1-1iNaTo4UQDTakm-30" target="D8em1-1iNaTo4UQDTakm-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="D8em1-1iNaTo4UQDTakm-26" target="D8em1-1iNaTo4UQDTakm-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-35" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Retorna&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="504" y="280.5" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-36" value="Nova File Criada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="479" y="314" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-37" value="Step 2&lt;br&gt;Retorno de Arquivo&lt;div&gt;Criado&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="34" y="275.25" width="60" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-38" value="DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="610" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-52" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="24" y="390" width="740" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="D8em1-1iNaTo4UQDTakm-64" value="Step 3&lt;br&gt;Criação do Job" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="34" y="425.25" width="60" height="53.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
